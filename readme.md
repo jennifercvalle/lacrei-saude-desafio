@@ -418,3 +418,4 @@ Observação: O tempo de carregamento apresentou valor acima do recomendado para
 |  | 🔗 🎥 [LINK DE EVIDENCIA DO BUG REPORTADO EM VIDEO](https://www.loom.com/share/c1e05d7df8d44bdb9fa87fc13d8f01fa) |
 
 ![bug5:4.png](images/bug54%201.png)
+
